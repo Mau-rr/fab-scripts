@@ -1,9 +1,9 @@
 # fab-scripts
-Descripción: Una colección de scripts útiles para automatización.
+Repositorio creado por Mau-rr para scripts de automatización.
 
 ## Instalación
-1. Clona el repo: `git clone https://github.com/TU_USUARIO/fab-scripts.git`
+1. Clona el repo: `git clone https://github.com/Mau-rr/fab-scripts.git`
 2. Entra a la carpeta: `cd fab-scripts`
 
 ## Ejemplo de Uso
-`bash mi-script.sh`
+`bash script.sh`
